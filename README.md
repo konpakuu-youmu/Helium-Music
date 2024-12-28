@@ -4,11 +4,13 @@
   <h2 align="center" style="font-weight: 600">Helium Music</h2>
 
   <p align="center">
-    ⚠️请注意：本项目是已经被删库的[Hydrogen-Music](https://github.com/Kaidesuyo/Hydrogen-Music)的分支。
+    ⚠️请注意：本项目是已经被删库的 [Hydrogen-Music](https://github.com/Kaidesuyo/Hydrogen-Music) 的分支。
     <br />
     因NE增加了云盾验证，密码登录可能无法使用，请使用二维码登录。
     <br />
     请尽量不要使用云盘中的上传功能，目前上传失败概率大且内存无法得到释放。
+    <br />
+    欢迎各位前往本仓库继续维护这个分支。
     <br />
     <a href="#%EF%B8%8F-安装" target="blank"><strong>📦️ 下载安装包</strong></a>
     <br />
@@ -23,7 +25,8 @@
 
 ## 👷‍♂️ 打包客户端
 
-由于个人设备限制，只打包了Windows平台的安装包且并未适配macOs与Linux平台。
+~~由于个人设备限制，只打包了Windows平台的安装包且并未适配macOs与Linux平台。~~
+本分支已经完成了Windows平台和Linux平台的打包，macOS由于个人设备限制暂未打包。
 如有可能，您可以在开发环境中自行适配。
 
 ```shell
